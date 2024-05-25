@@ -1,0 +1,15 @@
+{
+  "name": "dsa-trees",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "José Delpino",
+  "license": "Proprietary - All rights reserved",
+  "description": "",
+  "testEnvironment": "node",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
